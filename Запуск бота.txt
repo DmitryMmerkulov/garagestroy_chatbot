@@ -1,0 +1,7 @@
+cd C:\Users\debil\Documents\garagestroy_chatbot
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+.\venv\Scripts\Activate.ps1
+
+python bot.py
